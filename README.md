@@ -1,5 +1,8 @@
-bulldozer-price-prediction
+# Bulldozer Price Prediction
+
 Machine Learning project based on time series to predict bulldozer price
+
+Kaggle resource - https://www.kaggle.com/c/bluebook-for-bulldozers/overview
 
 To create the enviroment use the following command inside the project folder:
 ~~~console
